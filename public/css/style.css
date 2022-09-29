@@ -1,0 +1,27 @@
+.ic{
+    color: gray; 
+    width: 5%;
+}
+.ctn{
+    margin: 25px;
+}
+img{
+    width: 40%;
+    height: 40%;
+}
+.cards{
+    width: 40%;
+    height: 40%;
+}
+.tbl {
+    background-color: orange;
+    color:rgb(0, 0, 0);
+}
+.tblr{
+    background-color: rgb(245, 240, 199);
+    color:rgb(0, 0, 0);
+}
+table, th, td {
+    border-collapse: collapse;
+    border: 1px solid black;
+  }
