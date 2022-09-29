@@ -37,7 +37,7 @@ Feature list:
 
 1. Register
 
-![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/main/public/image/Register.png?raw=true)
+![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/main/public/image/Register.png)
 
 <br />
 
