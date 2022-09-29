@@ -33,6 +33,80 @@ Feature list:
 
 <br />
 
+**Website UI**
+
+1. Register
+
+![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/public/image/Register.png?raw=true)
+
+<br />
+
+2. Login
+
+![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/public/image/Login.png?raw=true)
+
+<br />
+
+3. Reset Password (mailtrap)
+
+![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/public/image/Reset%20Password.png?raw=true)
+
+<br />
+
+4. Home Dashboard
+
+![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/public/image/Home%20Dashboard.png?raw=true)
+
+<br />
+
+5. All Category (index)
+
+![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/public/image/Index%20Categories.png?raw=true)
+
+<br />
+
+6. Create New Category
+
+![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/public/image/Create%20New%20Category.png?raw=true)
+
+<br />
+
+7. Detail Category
+
+![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/public/image/Detail%20Category.png?raw=true)
+
+<br />
+
+8. Edit Category
+
+![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/public/image/Edit%20Category.png?raw=true)
+
+<br />
+
+9. All Post (index)
+
+![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/public/image/Index%20Posts.png?raw=true)
+
+<br />
+
+10. Create New Post
+
+![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/public/image/Create%20New%20Post.png?raw=true)
+
+<br />
+
+11. Detail Post
+
+![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/public/image/Detail%20Post.png?raw=true)
+
+<br />
+
+12. Edit Post
+
+![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/public/image/Edit%20Post.png?raw=true)
+
+<br />
+
 **Installation of laravel**
 
 Go to the documentation link below:<br />
