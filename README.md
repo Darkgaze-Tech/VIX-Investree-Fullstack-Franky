@@ -43,13 +43,13 @@ Feature list:
 
 2. Login
 
-![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/public/image/Login.png?raw=true)
+![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/main/public/image/Login.png?raw=true)
 
 <br />
 
 3. Reset Password (mailtrap)
 
-![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/public/image/Reset%20Password.png?raw=true)
+![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/main/public/image/Reset%20Password.png?raw=true)
 
 <br />
 
