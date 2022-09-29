@@ -55,55 +55,55 @@ Feature list:
 
 4. Home Dashboard
 
-![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/public/image/Home%20Dashboard.png?raw=true)
+![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/main/public/image/Home%20Dashboard.png?raw=true)
 
 <br />
 
 5. All Category (index)
 
-![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/public/image/Index%20Categories.png?raw=true)
+![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/main/public/image/Index%20Categories.png?raw=true)
 
 <br />
 
 6. Create New Category
 
-![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/public/image/Create%20New%20Category.png?raw=true)
+![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/main/public/image/Create%20New%20Category.png?raw=true)
 
 <br />
 
 7. Detail Category
 
-![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/public/image/Detail%20Category.png?raw=true)
+![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/main/public/image/Detail%20Category.png?raw=true)
 
 <br />
 
 8. Edit Category
 
-![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/public/image/Edit%20Category.png?raw=true)
+![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/main/public/image/Edit%20Category.png?raw=true)
 
 <br />
 
 9. All Post (index)
 
-![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/public/image/Index%20Posts.png?raw=true)
+![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/main/public/image/Index%20Posts.png?raw=true)
 
 <br />
 
 10. Create New Post
 
-![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/public/image/Create%20New%20Post.png?raw=true)
+![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/main/public/image/Create%20New%20Post.png?raw=true)
 
 <br />
 
 11. Detail Post
 
-![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/public/image/Detail%20Post.png?raw=true)
+![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/main/public/image/Detail%20Post.png?raw=true)
 
 <br />
 
 12. Edit Post
 
-![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/public/image/Edit%20Post.png?raw=true)
+![alt text](https://github.com/Darkgaze-Tech/VIX-Investree-Fullstack-Franky/blob/main/public/image/Edit%20Post.png?raw=true)
 
 <br />
 
